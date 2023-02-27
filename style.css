@@ -1,0 +1,11 @@
+body{
+  background-color: #f1f1f1;
+  margin: 0 auto;
+  max-width: 1440px;
+}
+.heading{
+  font-size: 45px;
+  color: gold;
+  text-align: center;
+  letter-spacing: 2px;
+}
